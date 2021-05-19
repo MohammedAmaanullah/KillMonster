@@ -1,2 +1,2 @@
-# KillMonster
-Use the mouse and help superman to defeat the monster
+# kill-monster-incomplete
+its incomplete
